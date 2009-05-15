@@ -1,8 +1,9 @@
-#summary Useful links
+#summary Usefull links
 
-= Introduction =
+= Forums =
 
 [http://forums.slimdevices.com/showthread.php?t=38173&page=6 forum on server development]
 
 
-= Details =
+= Protocol information =
+[http://wiki.slimdevices.com/index.php/SlimProto]
