@@ -2,7 +2,7 @@
 
 = Forums =
 
-[http://forums.slimdevices.com/showthread.php?t=38173&page=6 forum on server development]
+[http://forums.slimdevices.com/showthread.php?t=38173&page=6 Forum thread on slim-server development]
 
 
 = Protocol information =
