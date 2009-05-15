@@ -6,6 +6,6 @@
 
 
 = Protocol information =
-[http://wiki.slimdevices.com/index.php/SlimProtoTCPProtocol the server protocol]
+[http://wiki.slimdevices.com/index.php/SlimProtoTCPProtocol The server protocol]
 
-[http://wiki.slimdevices.com/index.php/SlimProtoDeveloperGuide the client protocol]
+[http://wiki.slimdevices.com/index.php/SlimProtoDeveloperGuide The client protocol]
