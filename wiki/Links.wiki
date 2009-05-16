@@ -17,4 +17,4 @@ seems dead.
 
 [http://forums.slimdevices.com/showpost.php?p=227160&postcount=11 summerH's]  python implementation. It seems well-written, but quite basic in functionality.
 
-[http://forums.slimdevices.com/showpost.php?p=236633&postcount=31 CHP's] c++ implementation. It can do transcoding using ffmpeg, but lacks a frontend.
+[http://forums.slimdevices.com/showpost.php?p=236633&postcount=31 CHP's] c++ implementation. It can do transcoding using ffmpeg, but lacks a frontend. Uses SQL for the database.
