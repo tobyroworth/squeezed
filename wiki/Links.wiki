@@ -19,3 +19,5 @@ seems dead.
 [http://forums.slimdevices.com/showpost.php?p=230495&postcount=24]. summerH's python implementation. It seems well-written, but quite basic in functionality.
 
 [http://forums.slimdevices.com/showpost.php?p=236633&postcount=31 CHP's] c++ implementation. It can do transcoding using ffmpeg, but lacks a frontend. Uses SQL for the database.
+
+[https://sourceforge.net/userapps/phpwebsite/kallehapponen/ Kalle Happonen]'s python implementation. I is quite recent, but seems to have all basics: playing music, control the squeezebox display, provide a web front-end.
